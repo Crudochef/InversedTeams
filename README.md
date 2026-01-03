@@ -4,248 +4,248 @@
 ![Minecraft](https://img.shields.io/badge/minecraft-1.21.4-green.svg)
 ![Java](https://img.shields.io/badge/java-21-orange.svg)
 
-Un plugin completo e avanzato per la gestione di team in Minecraft. Perfetto per server PvP, Faction e Survival con funzionalità moderne, GUI personalizzate, sistema di alleanze, team bank, statistiche dettagliate, leaderboard dinamiche e molto altro.
+A complete and advanced team management plugin for Minecraft. Perfect for PvP, Faction, and Survival servers with modern features, custom GUIs, alliance system, team bank, detailed statistics, dynamic leaderboards, and much more.
 
-Sviluppato da **InversedDevelopment** 🚀
+Developed by **InversedDevelopment** 🚀
 
 ---
 
-## 📋 Caratteristiche Principali
+## 📋 Main Features
 
-### 🎨 Design Moderno
-- **GUI Ergonomiche**: Interfacce grafiche personalizzate con design moderno (rosa/viola)
-- **Menu Personalizzabili**: Tutti i menu, messaggi e quasi tutti gli elementi sono completamente configurabili
-- **Sistema Multi-Lingua**: Supporto per più lingue (EN/IT) con gestione automatica dei file
+### 🎨 Modern Design
+- **Ergonomic GUIs**: Customized graphical interfaces with modern design (pink/purple)
+- **Customizable Menus**: All menus, messages, and almost all elements are fully configurable
+- **Multi-Language System**: Support for multiple languages (EN/IT) with automatic file management
 
-### 👥 Sistema Team Completo
-- **Creazione Team**: Crea il tuo team con nome personalizzato
-- **Gestione Membri**: Invita, rimuovi e gestisci i membri del team
-- **Sistema Ruoli**: Owner, Admin e Member con permessi differenziati
-- **Trasferimento Ownership**: Trasferisci la proprietà del team ad altri membri
-- **Team Info**: Visualizza informazioni dettagliate sui team
+### 👥 Complete Team System
+- **Team Creation**: Create your team with a custom name
+- **Member Management**: Invite, remove, and manage team members
+- **Role System**: Owner, Admin, and Member with differentiated permissions
+- **Ownership Transfer**: Transfer team ownership to other members
+- **Team Info**: View detailed team information
 
 ### 💰 Team Bank
-- **Banca Condivisa**: Sistema di deposito/prelievo condiviso tra i membri del team
-- **Permessi Personalizzabili**: Controlla chi può depositare e prelevare
-- **Integrazione Vault**: Sistema economico basato su Vault
+- **Shared Bank**: Deposit/withdrawal system shared among team members
+- **Customizable Permissions**: Control who can deposit and withdraw
+- **Vault Integration**: Economy system based on Vault
 
 ### 📦 Team Enderchest
-- **Storage Condiviso**: Ender chest condiviso tra tutti i membri del team
-- **Configurabile**: Dimensioni e permessi personalizzabili
-- **Accesso Facile**: Apertura rapida tramite GUI o comando
+- **Shared Storage**: Ender chest shared among all team members
+- **Configurable**: Customizable size and permissions
+- **Easy Access**: Quick opening via GUI or command
 
-### 🤝 Sistema Alleanze
-- **Richieste di Alleanza**: Invia e accetta richieste di alleanza tra team
-- **Chat Alleati**: Chat dedicata per comunicare con i team alleati
-- **Protezione**: Sistema di friendly fire per alleati configurabile
-- **Gestione**: Rimuovi alleanze quando necessario
+### 🤝 Alliance System
+- **Alliance Requests**: Send and accept alliance requests between teams
+- **Ally Chat**: Dedicated chat to communicate with allied teams
+- **Protection**: Configurable friendly fire system for allies
+- **Management**: Remove alliances when necessary
 
-### 📊 Statistiche Avanzate
-Tracciamento completo delle statistiche del team:
-- **Kills & Deaths**: Uccisioni di giocatori e morti
-- **K/D Ratio**: Rapporto kills/deaths calcolato automaticamente
-- **Mob Kills**: Uccisioni di mob
-- **Blocks**: Blocchi piazzati e rotti
-- **Level**: Livello totale del team
-- **Money**: Denaro totale del team
-- **Playtime**: Tempo di gioco totale
+### 📊 Advanced Statistics
+Complete team statistics tracking:
+- **Kills & Deaths**: Player kills and deaths
+- **K/D Ratio**: Automatically calculated kills/deaths ratio
+- **Mob Kills**: Mob kills
+- **Blocks**: Blocks placed and broken
+- **Level**: Total team level
+- **Money**: Total team money
+- **Playtime**: Total playtime
 
 ### 🏆 Leaderboard
-- **Classifiche Globali**: Visualizza i migliori team
-- **Categorie Multiple**: Leaderboard per kills, level e money
-- **GUI Intuitiva**: Interfaccia grafica per visualizzare le classifiche
-- **Integrazione PlaceholderAPI**: Placeholders per leaderboard personalizzate
+- **Global Rankings**: View the best teams
+- **Multiple Categories**: Leaderboards for kills, level, and money
+- **Intuitive GUI**: Graphical interface to view rankings
+- **PlaceholderAPI Integration**: Placeholders for custom leaderboards
 
 ### 🏠 Team Home
-- **Setta Home**: Imposta la home del team
-- **Teleport**: Teletrasporto rapido alla home del team
-- **Cooldown Configurabile**: Sistema di cooldown personalizzabile
+- **Set Home**: Set the team home
+- **Teleport**: Quick teleport to team home
+- **Configurable Cooldown**: Customizable cooldown system
 
 ### 💬 Team Chat
-- **Chat Dedicata**: Chat privata per il team
-- **Formato Personalizzabile**: Personalizza il formato dei messaggi
-- **Toggle**: Attiva/disattiva la chat del team
+- **Dedicated Chat**: Private chat for the team
+- **Customizable Format**: Customize message format
+- **Toggle**: Enable/disable team chat
 
-### 🛡️ Protezione Team
-- **Friendly Fire**: Disattiva il PvP tra membri dello stesso team
-- **Protezione Alleati**: Proteggi anche i membri dei team alleati
-- **Configurabile**: Attiva/disattiva le protezioni dal config
+### 🛡️ Team Protection
+- **Friendly Fire**: Disable PvP between members of the same team
+- **Ally Protection**: Also protect members of allied teams
+- **Configurable**: Enable/disable protections from config
 
-### 🔧 Comandi Admin
-- **Gestione Avanzata**: Comandi per amministratori del server
-- **Reload**: Ricarica configurazioni e messaggi
-- **Forza Azioni**: Elimina team, rimuovi membri forzatamente
-
----
-
-## 📦 Installazione
-
-1. **Scarica** il file `.jar` del plugin
-2. **Inserisci** il file nella cartella `plugins` del tuo server
-3. **Installa dipendenze**: Vault e PlaceholderAPI (opzionale)
-4. **Riavvia** il server
-5. **Configura** i file `config.yml` e `messages_XX.yml` nella cartella `plugins/InversedTeams/`
+### 🔧 Admin Commands
+- **Advanced Management**: Commands for server administrators
+- **Reload**: Reload configurations and messages
+- **Force Actions**: Delete teams, forcibly remove members
 
 ---
 
-## 🎮 Comandi
+## 📦 Installation
 
-### Comandi Giocatore
-
-#### `/team` - Menu principale del team
-- `/team create <nome>` - Crea un nuovo team
-- `/team disband` - Elimina il tuo team (solo owner)
-- `/team invite <giocatore>` - Invita un giocatore nel team
-- `/team join <team>` - Accetta un invito a un team
-- `/team leave` - Abbandona il team
-- `/team kick <giocatore>` - Rimuovi un membro dal team
-- `/team promote <giocatore>` - Promuovi un membro ad admin
-- `/team demote <giocatore>` - Retrocedi un admin a member
-- `/team transfer <giocatore>` - Trasferisci la ownership del team
-- `/team home` - Teletrasportati alla home del team
-- `/team sethome` - Imposta la home del team
-- `/team chat [messaggio]` - Attiva/disattiva la chat del team o invia un messaggio
-- `/team info [team]` - Visualizza informazioni su un team
-- `/team list` - Lista di tutti i team
-
-#### `/ally` - Gestione alleanze
-- `/ally add <team>` - Invia una richiesta di alleanza
-- `/ally remove <team>` - Rimuovi un'alleanza
-- `/ally accept <team>` - Accetta una richiesta di alleanza
-- `/ally deny <team>` - Rifiuta una richiesta di alleanza
-- `/ally list` - Lista delle alleanze del tuo team
-- `/ally chat [messaggio]` - Attiva/disattiva la chat alleati o invia un messaggio
-
-### Comandi Admin
-
-#### `/teamadmin` - Comandi amministrativi
-- `/teamadmin reload` - Ricarica config e messaggi
-- `/teamadmin delete <team>` - Elimina un team forzatamente
-- `/teamadmin info <team>` - Visualizza informazioni dettagliate su un team
-- `/teamadmin kick <giocatore>` - Rimuovi un giocatore dal suo team
-- `/teamadmin addmember <team> <giocatore>` - Aggiungi un giocatore a un team
-- `/teamadmin setowner <team> <giocatore>` - Imposta un nuovo owner per un team
+1. **Download** the plugin `.jar` file
+2. **Place** the file in your server's `plugins` folder
+3. **Install dependencies**: Vault and PlaceholderAPI (optional)
+4. **Restart** the server
+5. **Configure** the `config.yml` and `messages_XX.yml` files in the `plugins/InversedTeams/` folder
 
 ---
 
-## 🔑 Permessi
+## 🎮 Commands
 
-### Permessi Giocatore
-- `inversedteams.team` - Accesso ai comandi base del team (default: true)
-- `inversedteams.team.create` - Permesso per creare un team
-- `inversedteams.team.disband` - Permesso per eliminare il proprio team
-- `inversedteams.team.invite` - Permesso per invitare giocatori
-- `inversedteams.team.kick` - Permesso per rimuovere membri
-- `inversedteams.team.promote` - Permesso per promuovere membri
-- `inversedteams.team.demote` - Permesso per retrocedere membri
-- `inversedteams.team.transfer` - Permesso per trasferire ownership
-- `inversedteams.team.sethome` - Permesso per impostare la home
-- `inversedteams.team.home` - Permesso per usare la home
-- `inversedteams.team.chat` - Permesso per usare la chat del team
-- `inversedteams.team.bank` - Permesso per accedere alla bank
-- `inversedteams.team.enderchest` - Permesso per accedere all'enderchest
-- `inversedteams.ally` - Accesso ai comandi delle alleanze (default: true)
-- `inversedteams.ally.add` - Permesso per inviare richieste di alleanza
-- `inversedteams.ally.remove` - Permesso per rimuovere alleanze
-- `inversedteams.ally.chat` - Permesso per usare la chat alleati
+### Player Commands
 
-### Permessi Admin
-- `inversedteams.admin` - Accesso a tutti i comandi admin (default: op)
-- `inversedteams.admin.reload` - Permesso per ricaricare il plugin
-- `inversedteams.admin.delete` - Permesso per eliminare team
-- `inversedteams.admin.kick` - Permesso per rimuovere giocatori dai team
-- `inversedteams.admin.addmember` - Permesso per aggiungere membri ai team
-- `inversedteams.admin.setowner` - Permesso per cambiare owner dei team
+#### `/team` - Main team menu
+- `/team create <name>` - Create a new team
+- `/team disband` - Delete your team (owner only)
+- `/team invite <player>` - Invite a player to the team
+- `/team join <team>` - Accept a team invitation
+- `/team leave` - Leave the team
+- `/team kick <player>` - Remove a member from the team
+- `/team promote <player>` - Promote a member to admin
+- `/team demote <player>` - Demote an admin to member
+- `/team transfer <player>` - Transfer team ownership
+- `/team home` - Teleport to team home
+- `/team sethome` - Set the team home
+- `/team chat [message]` - Toggle team chat or send a message
+- `/team info [team]` - View information about a team
+- `/team list` - List all teams
+
+#### `/ally` - Alliance management
+- `/ally add <team>` - Send an alliance request
+- `/ally remove <team>` - Remove an alliance
+- `/ally accept <team>` - Accept an alliance request
+- `/ally deny <team>` - Deny an alliance request
+- `/ally list` - List your team's alliances
+- `/ally chat [message]` - Toggle ally chat or send a message
+
+### Admin Commands
+
+#### `/teamadmin` - Administrative commands
+- `/teamadmin reload` - Reload config and messages
+- `/teamadmin delete <team>` - Forcibly delete a team
+- `/teamadmin info <team>` - View detailed information about a team
+- `/teamadmin kick <player>` - Remove a player from their team
+- `/teamadmin addmember <team> <player>` - Add a player to a team
+- `/teamadmin setowner <team> <player>` - Set a new owner for a team
 
 ---
 
-## 🔧 Configurazione
+## 🔑 Permissions
+
+### Player Permissions
+- `inversedteams.team` - Access to basic team commands (default: true)
+- `inversedteams.team.create` - Permission to create a team
+- `inversedteams.team.disband` - Permission to delete your own team
+- `inversedteams.team.invite` - Permission to invite players
+- `inversedteams.team.kick` - Permission to remove members
+- `inversedteams.team.promote` - Permission to promote members
+- `inversedteams.team.demote` - Permission to demote members
+- `inversedteams.team.transfer` - Permission to transfer ownership
+- `inversedteams.team.sethome` - Permission to set home
+- `inversedteams.team.home` - Permission to use home
+- `inversedteams.team.chat` - Permission to use team chat
+- `inversedteams.team.bank` - Permission to access the bank
+- `inversedteams.team.enderchest` - Permission to access the enderchest
+- `inversedteams.ally` - Access to alliance commands (default: true)
+- `inversedteams.ally.add` - Permission to send alliance requests
+- `inversedteams.ally.remove` - Permission to remove alliances
+- `inversedteams.ally.chat` - Permission to use ally chat
+
+### Admin Permissions
+- `inversedteams.admin` - Access to all admin commands (default: op)
+- `inversedteams.admin.reload` - Permission to reload the plugin
+- `inversedteams.admin.delete` - Permission to delete teams
+- `inversedteams.admin.kick` - Permission to remove players from teams
+- `inversedteams.admin.addmember` - Permission to add members to teams
+- `inversedteams.admin.setowner` - Permission to change team owners
+
+---
+
+## 🔧 Configuration
 
 ### config.yml
 
 ```yaml
-# Lingua del plugin (en_US o it_IT)
+# Plugin language (en_US or it_IT)
 language: "en_US"
 
-# Configurazione Team
+# Team Configuration
 team:
-  # Lunghezza minima e massima del nome team
+  # Minimum and maximum team name length
   name-min-length: 3
   name-max-length: 16
-  # Numero massimo di membri per team
+  # Maximum number of members per team
   max-members: 10
-  # Cooldown per il comando /team home (in secondi)
+  # Cooldown for /team home command (in seconds)
   home-cooldown: 5
-  # Abilita friendly fire (danno tra membri dello stesso team)
+  # Enable friendly fire (damage between same team members)
   friendly-fire: false
-  # Abilita protezione alleati
+  # Enable ally protection
   ally-protection: true
 
-# Configurazione Statistiche
+# Statistics Configuration
 stats:
-  # Abilita il tracciamento delle statistiche
+  # Enable statistics tracking
   enabled: true
-  # Salvataggio automatico delle statistiche (in minuti)
+  # Automatic statistics saving (in minutes)
   auto-save-interval: 5
 
-# Formato Chat Team
+# Team Chat Format
 chat:
   team-format: "&d[TEAM] &f{player}: {message}"
   ally-format: "&b[ALLY] &f{player}: {message}"
 ```
 
-### Sistema Multi-Lingua
+### Multi-Language System
 
-Il plugin supporta più lingue con gestione automatica dei file:
+The plugin supports multiple languages with automatic file management:
 
-**Funzionamento:**
-1. All'avvio del plugin, viene creato automaticamente il file di lingua specificato nel `config.yml`
-2. Viene creato solo il file della lingua attiva (es: `messages_en_US.yml` o `messages_it_IT.yml`)
-3. I file delle altre lingue vengono automaticamente rimossi per evitare confusione
+**How it works:**
+1. On plugin startup, the language file specified in `config.yml` is automatically created
+2. Only the active language file is created (e.g., `messages_en_US.yml` or `messages_it_IT.yml`)
+3. Other language files are automatically removed to avoid confusion
 
-**Per cambiare lingua:**
-1. Modifica il parametro `language` nel `config.yml`:
-   - `en_US` per inglese (default)
-   - `it_IT` per italiano
+**To change language:**
+1. Modify the `language` parameter in `config.yml`:
+   - `en_US` for English (default)
+   - `it_IT` for Italian
 
-2. Ricarica il plugin con `/teamadmin reload`
+2. Reload the plugin with `/teamadmin reload`
 
-3. Il vecchio file di lingua verrà rimosso e verrà creato automaticamente quello della nuova lingua selezionata
+3. The old language file will be removed and the new language file will be automatically created
 
-**Nota:** Il file di lingua viene generato automaticamente alla prima installazione del plugin, non è incluso nel file JAR.
+**Note:** The language file is automatically generated on first plugin installation, it is not included in the JAR file.
 
 ---
 
 ## 🎯 PlaceholderAPI
 
-### Placeholders Disponibili
+### Available Placeholders
 
-#### Informazioni Team
-- `%inversedteams_team_name%` - Nome del team del giocatore
-- `%inversedteams_team_role%` - Ruolo del giocatore nel team
-- `%inversedteams_team_members%` - Numero di membri nel team
-- `%inversedteams_has_team%` - Se il giocatore ha un team (true/false)
+#### Team Information
+- `%inversedteams_team_name%` - Player's team name
+- `%inversedteams_team_role%` - Player's role in team
+- `%inversedteams_team_members%` - Number of members in team
+- `%inversedteams_has_team%` - Whether player has a team (true/false)
 
-#### Statistiche Team
-- `%inversedteams_team_kills%` - Kills totali del team
-- `%inversedteams_team_deaths%` - Deaths totali del team
-- `%inversedteams_team_kd%` - Rapporto K/D del team
-- `%inversedteams_team_mobkills%` - Mob kills del team
-- `%inversedteams_team_level%` - Livello totale del team
-- `%inversedteams_team_money%` - Denaro totale del team
-- `%inversedteams_team_playtime%` - Playtime totale del team
-- `%inversedteams_team_blocksplaced%` - Blocchi piazzati dal team
-- `%inversedteams_team_blocksbroken%` - Blocchi rotti dal team
+#### Team Statistics
+- `%inversedteams_team_kills%` - Total team kills
+- `%inversedteams_team_deaths%` - Total team deaths
+- `%inversedteams_team_kd%` - Team K/D ratio
+- `%inversedteams_team_mobkills%` - Team mob kills
+- `%inversedteams_team_level%` - Total team level
+- `%inversedteams_team_money%` - Total team money
+- `%inversedteams_team_playtime%` - Total team playtime
+- `%inversedteams_team_blocksplaced%` - Blocks placed by team
+- `%inversedteams_team_blocksbroken%` - Blocks broken by team
 
 #### Leaderboard
-- `%inversedteams_top_kills_<posizione>%` - Nome del team in posizione X per kills
-- `%inversedteams_top_kills_<posizione>_value%` - Valore kills della posizione X
-- `%inversedteams_top_level_<posizione>%` - Nome del team in posizione X per level
-- `%inversedteams_top_level_<posizione>_value%` - Valore level della posizione X
-- `%inversedteams_top_money_<posizione>%` - Nome del team in posizione X per money
-- `%inversedteams_top_money_<posizione>_value%` - Valore money della posizione X
+- `%inversedteams_top_kills_<position>%` - Team name at position X for kills
+- `%inversedteams_top_kills_<position>_value%` - Kills value at position X
+- `%inversedteams_top_level_<position>%` - Team name at position X for level
+- `%inversedteams_top_level_<position>_value%` - Level value at position X
+- `%inversedteams_top_money_<position>%` - Team name at position X for money
+- `%inversedteams_top_money_<position>_value%` - Money value at position X
 
-Esempio: `%inversedteams_top_kills_1%` mostra il nome del team con più kills
+Example: `%inversedteams_top_kills_1%` shows the team name with most kills
 
 ---
 
@@ -255,28 +255,28 @@ Esempio: `%inversedteams_top_kills_1%` mostra il nome del team con più kills
 - **Spigot/Paper**: 1.21.4 o superiore (compatibile dalla 1.16+)
 - **Java**: 21
 
-### Opzionali
-- **Vault**: Per il sistema economico e Team Bank
-- **PlaceholderAPI**: Per i placeholders personalizzati
+### Optional
+- **Vault**: For economy system and Team Bank
+- **PlaceholderAPI**: For custom placeholders
 
 ---
 
-## 🐛 Bug e Supporto
+## 🐛 Bugs and Support
 
-Se trovi bug o hai suggerimenti, contattaci su Discord o apri una issue su GitHub.
-
----
-
-## 📝 Licenza
-
-Questo plugin è stato sviluppato da **InversedDevelopment**.
+If you find bugs or have suggestions, contact us on Discord or open an issue on GitHub.
 
 ---
 
-## 💖 Crediti
+## 📝 License
 
-Sviluppato con ❤️ da **InversedDevelopment**
+This plugin was developed by **InversedDevelopment**.
 
 ---
 
-**InversedTeams** - Il miglior plugin per gestire team sul tuo server Minecraft! 🚀
+## 💖 Credits
+
+Developed with ❤️ by **InversedDevelopment**
+
+---
+
+**InversedTeams** - The best plugin to manage teams on your Minecraft server! 🚀
